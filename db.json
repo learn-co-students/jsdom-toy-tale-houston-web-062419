@@ -49,7 +49,7 @@
       "likes": 6
     },
     {
-      "name": "Buzz Lightyear",
+      "name": "Buzz Lightyear 2nd",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Buzz-PNG-Photos.png",
       "likes": 3,
       "id": 10
@@ -57,7 +57,7 @@
     {
       "name": "Jessie",
       "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
-      "likes": 5,
+      "likes": 4,
       "id": 11
     }
   ]

@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 				document.querySelector(".input-text").value = ""
 				document.querySelectorAll(".input-text")[1].value = ""
-				id_div.children[2].focus()
+				id_div.children[3].children[0].focus()
 				console.log(json)			
 			})
 			
